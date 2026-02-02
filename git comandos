@@ -1,0 +1,8 @@
+git init clone // clona repositorio
+git bash // comandos de cmd mkdir echo notepad
+git add // añade archivos
+git commit // guarda cambios
+git push/pull // subir comits
+git checkout // cambiar de rama o crear una nueva
+git branch // ramas listarlas, crearlas, renombrarlas y eliminarlas
+git merge // junta ramas 
