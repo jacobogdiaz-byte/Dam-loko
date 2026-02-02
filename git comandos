@@ -5,4 +5,4 @@ git commit // guarda cambios
 git push/pull // subir comits
 git checkout // cambiar de rama o crear una nueva
 git branch // ramas listarlas, crearlas, renombrarlas y eliminarlas
-git merge // junta ramas 
+git merge // junta ramas cuando has terminado una rama y quieres añadirla al main (Hay que estar en la rama main)
